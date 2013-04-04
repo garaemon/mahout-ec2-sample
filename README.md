@@ -1,6 +1,10 @@
 mahout-ec2-sample
 =================
 
+参考
+
+http://dev.classmethod.jp/cloud/aws/mahout-recommender-with-amazon-elastic-mapreduce/
+
 
 # データの整形
 Mahoutが必要とする形式はユーザID(long),アイテムID(long),レーティング(float)という形式のCSVなので、
